@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'teste-lebp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_68B48E411B6C491989915469F6116BBA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_32C83975EF9943B0A83F8DB7B550D575 }}
           package: .
