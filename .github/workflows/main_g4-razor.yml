@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'g4-razor'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0649F10C8B91417B976DFD7BD84667D9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F7B5C36EECC04752858EDB6279A7EA65 }}
           package: .
